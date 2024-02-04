@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](./your-header-image-name.png)
+![Header](/github-header-image.png)
 
 <!--
 **vellayawning/vellayawning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
