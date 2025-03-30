@@ -1,9 +1,11 @@
 name: Update badges
 
 on:
+  # To run manually
+  workflow_dispatch: 
   schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
+    # Runs at 0am UTC every Monday
+    - cron: "0 0 * * 1"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,5 +13,12 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: sachin-tiwari.11bdba81
+          CREDLY_SORT: POPULAR
+          BADGE_SIZE: 100
