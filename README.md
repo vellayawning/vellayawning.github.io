@@ -16,3 +16,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Vellayawning's GitHub Profile
+
+## About Me
+Hello! I'm Vellayawning, a passionate about learning with a love for creating projects to help myself or others. 
+
+## Skills
+- **Languages**: Bash, Python, C
+- **Tools**: Git
+
+## Badges
+
+
+## I’m currently working on ...
+Simple Bash and Python daily utility scripts
+- Making NCERT Maths games using python
+- #100daysofcode Python
+
+## I’m currently learning ...
+- Python
+    - 100 Days of Code: The Complete Python Pro Bootcamp [udemy]
+    - Python for Everybody Specialization [coursera]
+- Google CLoud
+- Github Certificate
+- Devops
+
+
+
+## 📫 How to reach me: ...
+Feel free to reach out to me:
+
+- **LinkedIn**: [Vellayawning's LinkedIn](https://www.linkedin.com/in/vellayawning)
+- **X (formerly Twitter)**: [@vellayawning](https://x.com/vellayawning)
+- ***Instragram**: [@theinsignificantvictory](https://www.instagram.com/theinsignificantvictory/)
+- ***Thread**: [@theinsignificantvictory](https://www.threads.net/@theinsignificantvictory)
+- **Asciinema**: [@~vellayawning](https://asciinema.org/~vellayawning)
+
+
+## Stats
+![Vellayawning's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vellayawning&show_icons=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vellayawning)
+
+## 🎓 Certificates & Trainings
+Still working towards doing something good.
+
+
+Find all on **Credly**: [@sachin-tiwari.11bdba81](https://www.credly.com/users/sachin-tiwari.11bdba81).
