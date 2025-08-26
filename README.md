@@ -29,9 +29,10 @@ Hello! I'm Vellayawning, a passionate about learning with a love for creating pr
 
 ## Badges
 <!--START_SECTION:badges-->
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/100x100/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/5b8ca1fe-493a-4a31-8aa4-b7734fc00400 "AWS Cloud Quest: Cloud Practitioner")
-[![GitHub Foundations](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/c78bc514-fd39-40c1-a806-e14f6b9da5b4 "GitHub Foundations")
-[![GitHub Actions](https://images.credly.com/size/100x100/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/0372da8e-e9c7-4139-a687-0cfeb74f2a09 "GitHub Actions")
+<a href="https://www.credly.com/badges/0372da8e-e9c7-4139-a687-0cfeb74f2a09" title="GitHub Actions"><img src="https://images.credly.com/size/80x80/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/c78bc514-fd39-40c1-a806-e14f6b9da5b4" title="GitHub Foundations"><img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/5b8ca1fe-493a-4a31-8aa4-b7734fc00400" title="AWS Cloud Quest: Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/users/sachin-tiwari.11bdba81/badges" title="GitHub Copilot"><img src="https://images.credly.com/size/80x80/images/d8f2f151-0391-4f7a-afa6-d455164b7b02/converted20250826-30-65zoe6.png" alt="GitHub Copilot" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## I’m currently working on ...
